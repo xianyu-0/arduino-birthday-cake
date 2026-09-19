@@ -17,4 +17,4 @@
 2. 用 Arduino IDE 打开 .ino 文件
 3. 上传到开发板
 ## 演示视频
-[点击查看 B站演示]([https://www.bilibili.com/video/BV1mCet6jEPv/?vd_source=e871e9bf15c2737e11232e8069e6ee2a]
+点击查看 B站演示https://www.bilibili.com/video/BV1mCet6jEPv/?vd_source=e871e9bf15c2737e11232e8069e6ee2a
